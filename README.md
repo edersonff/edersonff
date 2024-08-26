@@ -12,7 +12,7 @@
     
  <p>🔋 Over the years, I've explored various projects and hobbies, including game development, pentesting, and electronics hardware </p>
  
- <p>🌱 I'm currently learning **.net, SpringBoot, Golang**</p>
+ 🌱 I'm currently learning **.net, SpringBoot, Golang**
  
 
  </div>

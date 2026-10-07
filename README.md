@@ -1,55 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edersonff.edersonff" />
+Full-stack engineer in Jaraguá do Sul, Brazil. I work remotely and build AI products for web and desktop.
 
+At Shaw and Partners I work on PitchGenius, an AI sales coach:
+- The desktop app that sits beside a video call and shows the seller what to say next. I wrote its voice analysis in Rust with a teammate.
+- The plan a seller gets before a call, written from the team's own sales script (PDF or Word).
+- The report after the call, with what the buyer confirmed and what is still missing.
+- The connections to each seller's own CRM, HubSpot, Salesforce, Pipedrive and GoHighLevel.
+- Credit billing with Stripe.
 
+Also at Shaw, Iridology AI. A user photographs both eyes, an AI checks the photos, and a paid PDF report comes back.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+how+are+you?+👋;+I'm+Ederson!;" />
-</h1>
+On my own time:
+- [llm-adapter](https://github.com/edersonff/llm-adapter), one program in front of many AI models. If one is down, it uses the next. Written in Rust.
+- [fixed](https://github.com/edersonff/fixed), a desktop app to browse and install games and add them to Steam. Written in Rust.
 
-
-<div align="center">
- <p>🚀 I'm a passionate Brazilian developer who has been studying programming since I was a child. </p>
-    
- <p>🔋 Over the years, I've explored various projects and hobbies, including game development, pentesting, and electronics hardware </p>
- 
- 🌱 I'm currently learning **.net, SpringBoot, Golang**
- 
-
- </div>
- 
-<div align="center"> 
-    
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ederson.tech/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ederson-franzen-fagundes/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edersonfff)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547996556538)
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,nextjs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My commits 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/edersonff/edersonff/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=edersonff&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=edersonff&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/ederson-franzen-fagundes/) · ederr@ederr.com
